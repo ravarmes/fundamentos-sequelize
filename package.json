@@ -9,7 +9,7 @@
   "author": "Rafael Vargas",
   "license": "MIT",
   "dependencies": {
-    "sequelize": "^6.28.0",
-    "sqlite3": "^5.1.4"
+    "sequelize": "^6.37.6",
+    "sqlite3": "^5.1.7"
   }
 }

@@ -1,0 +1,23 @@
+# Dependências
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.pnpm-debug.log
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Outros arquivos e pastas comuns para ignorar
+.DS_Store
+.vscode/
+.idea/
+*.log
+logs/
+coverage/
+dist/
+build/
